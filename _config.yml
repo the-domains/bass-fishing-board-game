@@ -1,7 +1,7 @@
 name: Bass Fishing Board Game
 favicon: null
 layout_spectrum: 0.391526794526726
-typography_spectrum: 0.39124504826031625
+typography_spectrum: 0.13876
 title: Bass Fishing Board Game
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.08110381476581097
-  lightness: 0.3490130149293691
-  saturation: 0.47471184912137687
-  rhythmicContrast: 0.9537484415341169
+    - '#ffffff'
+    - '#000000'
+    - '#a09fa0'
+    - '#36414a'
+    - '#abb822'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
