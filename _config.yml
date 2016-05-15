@@ -2,12 +2,13 @@ name: Bass Fishing Board Game
 favicon: null
 layout_spectrum: 0.391526794526726
 typography_spectrum: 0.39124504826031625
+title: Bass Fishing Board Game
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77808600-1
   facebook: null
   twitter: null
 opengraph:
