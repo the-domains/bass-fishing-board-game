@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bass Fishing Board Game]]></title>
         <description><![CDATA[Bass Fishing Board Game]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bassfishingboardgame.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 21:09:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 21:24:56 GMT</lastBuildDate>
+        <atom:link href="http://bassfishingboardgame.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Intense competition, surprising turns, and exciting catches. Will you be the next top angler?]]></title>
             <description><![CDATA[<article><h1>Intense competition, surprising turns, and exciting catches. Will you be the next top angler?</h1><p>The Bass Fishing Board Game involves moving around the board to different fishing spots with your boat pawn. At those spots you can use a combination of lures, action cards and dice for a chance to land a big bass. The object of the game is to fill your live well with 5 of the largest fish. At the end of the tournament, each player’s live well weight is calculated and a winner is determined.</p></article>]]></description>
-            <link>undefinedintense-competition-surprising-turns-and-exciting-catches/index.html</link>
+            <link>http://bassfishingboardgame.com/intense-competition-surprising-turns-and-exciting-catches/index.html</link>
             <guid isPermaLink="false">905b7dc7-c18a-4ccc-8ac0-564b4b8806af</guid>
-            <pubDate>Sun, 15 May 2016 21:08:31 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 21:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
