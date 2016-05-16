@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: LAUNCHING JUNE FIRST
-datePublished: '2016-05-16T17:00:17.432Z'
-dateModified: '2016-05-16T16:59:42.096Z'
+datePublished: '2016-05-16T21:47:21.806Z'
+dateModified: '2016-05-16T21:36:52.033Z'
 author: []
 sourcePath: _posts/2016-05-16-launching-june-first.md
 title: ''
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: launching-june-first/index.html
 _type: Article
 
