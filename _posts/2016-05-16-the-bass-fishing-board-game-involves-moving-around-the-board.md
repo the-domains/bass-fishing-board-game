@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "The Bass Fishing Board Game involves moving around the board to different fishing spots with your boat pawn. At those spots you can use a combination of lures, action cards, and dice for the chance to land a big bass. The object of the game is to fill your live well with five of the largest fist. At the end of the tournament, each player's live well weight is calculated and a winner is determined."
-datePublished: '2016-05-17T22:11:18.729Z'
-dateModified: '2016-05-17T22:11:04.294Z'
+datePublished: '2016-05-17T22:13:49.508Z'
+dateModified: '2016-05-17T22:11:24.875Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-the-bass-fishing-board-game-involves-moving-around-the-board.md
