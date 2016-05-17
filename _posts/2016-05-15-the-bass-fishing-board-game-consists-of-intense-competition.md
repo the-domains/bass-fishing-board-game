@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-17T22:11:56.255Z'
-dateModified: '2016-05-17T02:52:35.482Z'
+description: 'Interested? Click here to sign up for our email newsletter!'
+datePublished: '2016-05-17T22:13:12.552Z'
+dateModified: '2016-05-17T22:13:07.065Z'
 title: 'LAUNCHING JUNE FIRST:'
 author: []
 sourcePath: _posts/2016-05-15-the-bass-fishing-board-game-consists-of-intense-competition.md
@@ -27,6 +27,5 @@ _type: Article
 
 [**Interested? Click here to sign up for our email newsletter!**][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/380785a1-b0b3-411a-ac51-ed0821c6bfee.jpg)
-
 
 [0]: http://eepurl.com/b1XUBn
