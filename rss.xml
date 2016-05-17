@@ -4,21 +4,21 @@
         <description><![CDATA[Bass Fishing Board Game]]></description>
         <link>http://bassfishingboardgame.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 02:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 02:20:45 GMT</lastBuildDate>
         <atom:link href="http://bassfishingboardgame.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LAUNCHING JUNE FIRST]]></title>
+            <description><![CDATA[<article><h1>LAUNCHING JUNE FIRST</h1><p>The Bass Fishing Board Game consists of intense competition, surprising turns, and exciting catches. Will you be the next top angler?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6422a70f54e5093c74553226712992b90ec5129.jpg"></article>]]></description>
+            <link>http://bassfishingboardgame.com/the-bass-fishing-board-game-consists-of-intense-competition/index.html</link>
+            <guid isPermaLink="false">93122405-378c-4fd7-a5d0-1588e2a98e68</guid>
+            <pubDate>Tue, 17 May 2016 02:20:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/432e4960-2496-459d-ad0c-dcac7b298193.jpg">]]></description>
             <link>http://bassfishingboardgame.com/the-bass-fishing-board-game-involves-moving-around-the-board/index.html</link>
             <guid isPermaLink="false">56b6c010-e244-4782-8cee-3b0742501ad0</guid>
             <pubDate>Mon, 16 May 2016 21:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec076a8-07b9-49c6-8dfe-c3cda4a8f4b2.jpg">]]></description>
-            <link>http://bassfishingboardgame.com/the-bass-fishing-board-game-consists-of-intense-competition/index.html</link>
-            <guid isPermaLink="false">93122405-378c-4fd7-a5d0-1588e2a98e68</guid>
-            <pubDate>Sun, 15 May 2016 23:16:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
