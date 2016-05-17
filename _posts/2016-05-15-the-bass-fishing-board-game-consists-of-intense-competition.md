@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Interested? Click here to sign up for our email newsletter!'
-datePublished: '2016-05-17T22:15:42.218Z'
-dateModified: '2016-05-17T22:15:10.700Z'
-title: 'LAUNCHING JUNE FIRST:'
+datePublished: '2016-05-17T22:22:12.326Z'
+dateModified: '2016-05-17T22:22:10.608Z'
+title: LAUNCHING JUNE 1st
 author: []
 sourcePath: _posts/2016-05-15-the-bass-fishing-board-game-consists-of-intense-competition.md
 authors: []
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/380785a1-b0b3-411a-ac51-ed0821c6bfee.jpg)
 
-# LAUNCHING JUNE FIRST:
+# LAUNCHING JUNE 1st
 
 ## The Bass Fishing Board Game consists of intense competition, surprising turns, and exciting catches. Will you be the next top angler?
 
