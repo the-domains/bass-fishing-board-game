@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "The Bass Fishing Board Game consists of intense competition, surprising turns, and exciting catches. \x03Will you be the next top angler?"
-datePublished: '2016-05-17T02:20:45.153Z'
-dateModified: '2016-05-17T02:20:32.859Z'
-title: LAUNCHING JUNE FIRST
+datePublished: '2016-05-17T02:35:34.922Z'
+dateModified: '2016-05-17T02:35:13.562Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-15-the-bass-fishing-board-game-consists-of-intense-competition.md
 authors: []
@@ -27,8 +27,9 @@ _type: Article
 
 The Bass Fishing Board Game consists of intense competition, surprising turns, and exciting catches. Will you be the next top angler?
 
-After 7 years, the Bass Fishing Board Game is relaunching with a new and improved design but the same incredible gameplay. 
-
 [Interested? Click here to sign up for our email newsletter!][0]
+
+_After 7 years, the Bass Fishing Board Game is relaunching on 6/1 with a new and improved design but the same incredible gameplay. _
+
 
 [0]: http://eepurl.com/b1XUBn
