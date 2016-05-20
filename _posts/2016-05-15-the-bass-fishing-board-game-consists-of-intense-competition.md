@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: CLICK HERE to subscribe to our email newsletter
-datePublished: '2016-05-20T22:11:30.416Z'
-dateModified: '2016-05-20T22:11:12.378Z'
+datePublished: '2016-05-20T22:13:19.750Z'
+dateModified: '2016-05-20T22:11:56.022Z'
 author:
   - name: ''
     url: ''
@@ -26,6 +26,5 @@ _type: Article
 ## The Bass Fishing Board Game consists of intense competition, surprising turns, and exciting catches. Will you be the next top angler?
 
 [**CLICK HERE to subscribe to our email newsletter**][0]
-
 
 [0]: http://eepurl.com/b1XUBn
