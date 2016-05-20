@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: CLICK HERE to subscribe to our email newsletter
-datePublished: '2016-05-20T22:16:31.118Z'
-dateModified: '2016-05-20T22:13:26.790Z'
+datePublished: '2016-05-20T22:18:37.670Z'
+dateModified: '2016-05-20T22:18:31.772Z'
 author:
   - name: ''
     url: ''
@@ -15,8 +16,7 @@ title: LAUNCHING JUNE 1st
 authors: []
 publisher: null
 starred: true
-url: launching-june-1st/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e41bca3-4bd4-47bf-b1d2-ac1a4fcbfc37.jpg)
